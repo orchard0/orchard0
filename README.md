@@ -1,4 +1,4 @@
-### Bismillah ar-Rahman ar-Raheem (In the Name of God, the Entirely Merciful, the Especially Merciful)
+### Bismillah ar-Rahman ar-Raheem - In the name of God, the entirely merciful, the especially merciful
 
 <!--
 **orchard0/orchard0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
