@@ -1,4 +1,11 @@
-### Bismillah ar-Rahman ar-Raheem - In the name of God, the entirely merciful, the especially merciful
+### In the name of God, the entirely compassionate, the especially compassionate
+
+## Hi, I'm Abdul 👋
+A full stack software developer with 2 years of experience creating responsive web apps and 8+ years of experience of creating Python scripts.
+
+Checkout my portfolio: here 
+
+Or browse my repositories.
 
 <!--
 **orchard0/orchard0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
